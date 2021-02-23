@@ -80,3 +80,6 @@ int main(){
   out = (float)n / (float)i*flag*oushu*100;//输出
   printf("%.2f%%",out);
 }
+
+
+
