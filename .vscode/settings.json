@@ -1,0 +1,11 @@
+{
+  "files.associations": {
+    "*.vue": "vue",
+    "*.wpy": "vue",
+    "*.wxml": "html",
+    "*.wxss": "css",
+    "stdio.h": "c",
+    "stdlib.h": "c",
+    "malloc.h": "c"
+  }
+}
